@@ -7,7 +7,7 @@ To distribute your product under TFL include these lines in a "0-LICENSE" file
 #
 # ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~
 #      @Authors :
-#          @URI :
+#         @URLs :
 # @Contributors :
 # ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~
 #
