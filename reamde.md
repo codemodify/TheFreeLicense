@@ -13,7 +13,7 @@
 # @Contributors :
 # ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~
 #
-# You can do whatever you please with this.
-# If you manage to shoot yourself in the foot, create a support ticket.
+# You are free to use this art project as you see fit.
+# There are no restrictions or obligations of any kind.
 #
 ```
