@@ -1,12 +1,8 @@
 # ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flare/v4/24px.svg) The Free License (TFL)
 
-> &nbsp;
->
 > To distribute under TFL include this in a `license` file.
->
-> &nbsp;
 
-```md
+```bash
 #
 # The Free License
 # https://github.com/codemodify/TheFreeLicense
